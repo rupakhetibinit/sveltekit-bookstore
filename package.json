@@ -33,6 +33,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@prisma/client": "^4.6.1"
+		"@prisma/client": "^4.6.1",
+		"argon2": "^0.30.2"
 	}
 }
